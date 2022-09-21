@@ -1,0 +1,30 @@
+{
+  "name": "generator-materio",
+  "version": "0.0.1",
+  "description": "A Materio Vue Dashboard template for views and fakedb",
+  "main": "generator/views/apps/index.js",
+  "files": [
+    "views"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paitoncamp/generator-materio.git"
+  },
+  "keywords": [
+    "yeoman",
+    "materio",
+    "dashboard"
+  ],
+  "dependencies": {
+    "decamelize": "^6.0.0",
+    "lodash": "^4.17.21",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^1.1.1"
+  },
+  "author": "wirams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paitoncamp/generator-materio/issues"
+  },
+  "homepage": "https://github.com/paitoncamp/generator-materio#readme"
+}
